@@ -3,7 +3,8 @@ function setup() {
 }
 
 function draw() {
-
+  fill (111, 255, 30)
   square(30, 20, 55);
+  
 }
 
